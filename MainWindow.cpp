@@ -28,10 +28,8 @@ MainWindow::MainWindow()
 
     // Прямоугольник от -100 до 100 по осям
     QRectF rect(-100 * scale, -100 * scale, 200 * scale, 200 * scale);
-
     // Отрисовываем прямоугольник на сцене
     QGraphicsRectItem* rectItem = scene->addRect(rect, QPen(Qt::black), QBrush(Qt::transparent));
-
 
     // Правая панель управления
     QWidget* rightPanel = new QWidget();

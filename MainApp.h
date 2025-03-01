@@ -1,13 +1,16 @@
 #pragma once
 #include "MainWindow.h"
-#include "Entity.h"
+
+#include "..\Widgets\geom.h"
 
 #include <QObject>
 #include <QDebug>
 #include <QTimer>
 
-#include "BaseTools.h"
-#include "Quadtree.h"
+#include "..\Widgets\Food.h"
+#include "..\Widgets\Animal.h"
+#include "..\Widgets\Entity.h"
+
 class MainApp : public QObject {
 	Q_OBJECT
 public:
@@ -15,9 +18,15 @@ public:
 	~MainApp();
 private:
 	MainWindow window;
-	QTimer* timer;
+	QTimer* timerAddFood;
+	QTimer* timerMoveAnimals;
 
 	Quadtree* quadTree=nullptr;
+
+	std::vector <Animal*> animalVec;
+
+	void processAnimal(int index);
 private slots:
 	void performPeriodicTask();
+	void tickMoveAnimals();
 };

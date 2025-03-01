@@ -1,9 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simLive", "simLive.vcxproj", "{B02C7A6B-971A-4702-BA35-7B02F7EFF408}"
+	ProjectSection(ProjectDependencies) = postProject
+		{05E2A537-E0CE-4A15-838D-19DAC29B1346} = {05E2A537-E0CE-4A15-838D-19DAC29B1346}
+		{2ED68A9D-6DD4-44BD-A1DC-9F522C38837A} = {2ED68A9D-6DD4-44BD-A1DC-9F522C38837A}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Widgets", "Widgets\Widgets.vcxproj", "{05E2A537-E0CE-4A15-838D-19DAC29B1346}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2ED68A9D-6DD4-44BD-A1DC-9F522C38837A} = {2ED68A9D-6DD4-44BD-A1DC-9F522C38837A}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ATools", "ATools\ATools.vcxproj", "{2ED68A9D-6DD4-44BD-A1DC-9F522C38837A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +26,14 @@ Global
 		{B02C7A6B-971A-4702-BA35-7B02F7EFF408}.Debug|x64.Build.0 = Debug|x64
 		{B02C7A6B-971A-4702-BA35-7B02F7EFF408}.Release|x64.ActiveCfg = Release|x64
 		{B02C7A6B-971A-4702-BA35-7B02F7EFF408}.Release|x64.Build.0 = Release|x64
+		{05E2A537-E0CE-4A15-838D-19DAC29B1346}.Debug|x64.ActiveCfg = Debug|x64
+		{05E2A537-E0CE-4A15-838D-19DAC29B1346}.Debug|x64.Build.0 = Debug|x64
+		{05E2A537-E0CE-4A15-838D-19DAC29B1346}.Release|x64.ActiveCfg = Release|x64
+		{05E2A537-E0CE-4A15-838D-19DAC29B1346}.Release|x64.Build.0 = Release|x64
+		{2ED68A9D-6DD4-44BD-A1DC-9F522C38837A}.Debug|x64.ActiveCfg = Debug|x64
+		{2ED68A9D-6DD4-44BD-A1DC-9F522C38837A}.Debug|x64.Build.0 = Debug|x64
+		{2ED68A9D-6DD4-44BD-A1DC-9F522C38837A}.Release|x64.ActiveCfg = Release|x64
+		{2ED68A9D-6DD4-44BD-A1DC-9F522C38837A}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

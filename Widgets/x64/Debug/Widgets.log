@@ -1,0 +1,5 @@
+﻿   Qt/MSBuild: 3.3.1.1
+  Reading Qt configuration (C:\Qt\5.15.1\msvc2019_64\bin/qmake)
+   Qt: 5.15.1
+  Animal.cpp
+  Widgets.vcxproj -> E:\proga6sem\simLive\x64\Debug\Widgets.lib

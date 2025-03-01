@@ -6,6 +6,7 @@ QMAKE_CXX.COMPILER_MACROS = \
     QMAKE_MSC_VER \
     QMAKE_MSC_FULL_VER
 QMAKE_CXX.INCDIRS = \
+    E:\\proga6sem\\simLive\\simLive \
     "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include" \
     "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\atlmfc\\include" \
     "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include" \

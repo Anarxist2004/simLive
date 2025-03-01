@@ -3,55 +3,48 @@
   "WorkspaceRootPath": "E:\\proga6sem\\simLive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|E:\\proga6sem\\simLive\\Quadtree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|solutionrelative:Quadtree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|E:\\proga6sem\\simLive\\MainWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|solutionrelative:MainWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{05E2A537-E0CE-4A15-838D-19DAC29B1346}|Widgets\\Widgets.vcxproj|E:\\proga6sem\\simLive\\Widgets\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05E2A537-E0CE-4A15-838D-19DAC29B1346}|Widgets\\Widgets.vcxproj|solutionrelative:Widgets\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|E:\\proga6sem\\simLive\\MainApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|solutionrelative:MainApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{05E2A537-E0CE-4A15-838D-19DAC29B1346}|Widgets\\Widgets.vcxproj|E:\\proga6sem\\simLive\\WIDGETS\\ANIMAL.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05E2A537-E0CE-4A15-838D-19DAC29B1346}|Widgets\\Widgets.vcxproj|solutionrelative:WIDGETS\\ANIMAL.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|E:\\proga6sem\\simLive\\MainApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|solutionrelative:MainApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|E:\\proga6sem\\simLive\\Food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|solutionrelative:Food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|E:\\proga6sem\\simLive\\MainWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|solutionrelative:MainWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E2A537-E0CE-4A15-838D-19DAC29B1346}|Widgets\\Widgets.vcxproj|E:\\proga6sem\\simLive\\WIDGETS\\GEOM.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05E2A537-E0CE-4A15-838D-19DAC29B1346}|Widgets\\Widgets.vcxproj|solutionrelative:WIDGETS\\GEOM.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED68A9D-6DD4-44BD-A1DC-9F522C38837A}|ATools\\ATools.vcxproj|E:\\proga6sem\\simLive\\ATools\\BaseTools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ED68A9D-6DD4-44BD-A1DC-9F522C38837A}|ATools\\ATools.vcxproj|solutionrelative:ATools\\BaseTools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|E:\\proga6sem\\simLive\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|E:\\proga6sem\\simLive\\Food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|solutionrelative:Food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{05E2A537-E0CE-4A15-838D-19DAC29B1346}|Widgets\\Widgets.vcxproj|E:\\proga6sem\\simLive\\Widgets\\Food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05E2A537-E0CE-4A15-838D-19DAC29B1346}|Widgets\\Widgets.vcxproj|solutionrelative:Widgets\\Food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|C:\\QT\\5.15.1\\MSVC2019_64\\INCLUDE\\QTCORE\\QRECT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{05E2A537-E0CE-4A15-838D-19DAC29B1346}|Widgets\\Widgets.vcxproj|E:\\proga6sem\\simLive\\Widgets\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05E2A537-E0CE-4A15-838D-19DAC29B1346}|Widgets\\Widgets.vcxproj|solutionrelative:Widgets\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|E:\\proga6sem\\simLive\\BaseTools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|solutionrelative:BaseTools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|E:\\proga6sem\\simLive\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|solutionrelative:Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|E:\\proga6sem\\simLive\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|solutionrelative:Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|E:\\proga6sem\\simLive\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|solutionrelative:Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|E:\\proga6sem\\simLive\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B02C7A6B-971A-4702-BA35-7B02F7EFF408}|simLive.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{05E2A537-E0CE-4A15-838D-19DAC29B1346}|Widgets\\Widgets.vcxproj|E:\\proga6sem\\simLive\\Widgets\\Food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05E2A537-E0CE-4A15-838D-19DAC29B1346}|Widgets\\Widgets.vcxproj|solutionrelative:Widgets\\Food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,147 +54,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.cpp",
-              "DocumentMoniker": "E:\\proga6sem\\simLive\\MainWindow.cpp",
-              "RelativeDocumentMoniker": "MainWindow.cpp",
-              "ToolTip": "E:\\proga6sem\\simLive\\MainWindow.cpp",
-              "RelativeToolTip": "MainWindow.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-07T19:55:17.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "qrect.h",
-              "DocumentMoniker": "C:\\QT\\5.15.1\\msvc2019_64\\include\\QtCore\\qrect.h",
-              "ToolTip": "C:\\QT\\5.15.1\\msvc2019_64\\include\\QtCore\\qrect.h",
-              "ViewState": "AgIAAO4BAAAAAAAAAAAIwAECAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-07T19:35:15.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Quadtree.h",
-              "DocumentMoniker": "E:\\proga6sem\\simLive\\Quadtree.h",
-              "RelativeDocumentMoniker": "Quadtree.h",
-              "ToolTip": "E:\\proga6sem\\simLive\\Quadtree.h",
-              "RelativeToolTip": "Quadtree.h",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAFgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-07T18:53:12.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Food.cpp",
-              "DocumentMoniker": "E:\\proga6sem\\simLive\\Food.cpp",
-              "RelativeDocumentMoniker": "Food.cpp",
-              "ToolTip": "E:\\proga6sem\\simLive\\Food.cpp",
-              "RelativeToolTip": "Food.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-07T18:21:57.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Food.h",
-              "DocumentMoniker": "E:\\proga6sem\\simLive\\Food.h",
-              "RelativeDocumentMoniker": "Food.h",
-              "ToolTip": "E:\\proga6sem\\simLive\\Food.h",
-              "RelativeToolTip": "Food.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-07T18:21:24.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Animal.h",
-              "DocumentMoniker": "E:\\proga6sem\\simLive\\Animal.h",
-              "RelativeDocumentMoniker": "Animal.h",
-              "ToolTip": "E:\\proga6sem\\simLive\\Animal.h",
-              "RelativeToolTip": "Animal.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-07T17:21:27.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Animal.cpp",
-              "DocumentMoniker": "E:\\proga6sem\\simLive\\Animal.cpp",
-              "RelativeDocumentMoniker": "Animal.cpp",
-              "ToolTip": "E:\\proga6sem\\simLive\\Animal.cpp",
-              "RelativeToolTip": "Animal.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAD4vyoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\proga6sem\\simLive\\Widgets\\Animal.cpp",
+              "RelativeDocumentMoniker": "Widgets\\Animal.cpp",
+              "ToolTip": "E:\\proga6sem\\simLive\\Widgets\\Animal.cpp",
+              "RelativeToolTip": "Widgets\\Animal.cpp",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-07T17:22:37.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Entity.h",
-              "DocumentMoniker": "E:\\proga6sem\\simLive\\Entity.h",
-              "RelativeDocumentMoniker": "Entity.h",
-              "ToolTip": "E:\\proga6sem\\simLive\\Entity.h",
-              "RelativeToolTip": "Entity.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-07T16:29:52.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "stdafx.h",
-              "DocumentMoniker": "E:\\proga6sem\\simLive\\stdafx.h",
-              "RelativeDocumentMoniker": "stdafx.h",
-              "ToolTip": "E:\\proga6sem\\simLive\\stdafx.h",
-              "RelativeToolTip": "stdafx.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-07T16:20:35.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseTools.h",
-              "DocumentMoniker": "E:\\proga6sem\\simLive\\BaseTools.h",
-              "RelativeDocumentMoniker": "BaseTools.h",
-              "ToolTip": "E:\\proga6sem\\simLive\\BaseTools.h",
-              "RelativeToolTip": "BaseTools.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-07T16:12:40.61Z",
+              "WhenOpened": "2025-02-09T15:42:25.45Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainApp.cpp",
-              "DocumentMoniker": "E:\\proga6sem\\simLive\\MainApp.cpp",
-              "RelativeDocumentMoniker": "MainApp.cpp",
-              "ToolTip": "E:\\proga6sem\\simLive\\MainApp.cpp",
-              "RelativeToolTip": "MainApp.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-07T16:05:52.786Z",
+              "Title": "Animal.h",
+              "DocumentMoniker": "E:\\proga6sem\\simLive\\Widgets\\Animal.h",
+              "RelativeDocumentMoniker": "Widgets\\Animal.h",
+              "ToolTip": "E:\\proga6sem\\simLive\\Widgets\\Animal.h",
+              "RelativeToolTip": "Widgets\\Animal.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T15:42:05.86Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseTools.h",
+              "DocumentMoniker": "E:\\proga6sem\\simLive\\ATools\\BaseTools.h",
+              "RelativeDocumentMoniker": "ATools\\BaseTools.h",
+              "ToolTip": "E:\\proga6sem\\simLive\\ATools\\BaseTools.h",
+              "RelativeToolTip": "ATools\\BaseTools.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T16:49:30.004Z",
               "EditorCaption": ""
             },
             {
@@ -212,22 +105,99 @@
               "RelativeDocumentMoniker": "MainApp.h",
               "ToolTip": "E:\\proga6sem\\simLive\\MainApp.h",
               "RelativeToolTip": "MainApp.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAD4vxAAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-07T16:05:05.62Z",
+              "WhenOpened": "2025-03-01T16:35:58.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "Food.h",
+              "DocumentMoniker": "E:\\proga6sem\\simLive\\Widgets\\Food.h",
+              "RelativeDocumentMoniker": "Widgets\\Food.h",
+              "ToolTip": "E:\\proga6sem\\simLive\\Widgets\\Food.h",
+              "RelativeToolTip": "Widgets\\Food.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T16:31:30.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Food.cpp",
+              "DocumentMoniker": "E:\\proga6sem\\simLive\\Widgets\\Food.cpp",
+              "RelativeDocumentMoniker": "Widgets\\Food.cpp",
+              "ToolTip": "E:\\proga6sem\\simLive\\Widgets\\Food.cpp",
+              "RelativeToolTip": "Widgets\\Food.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T16:31:23.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainApp.cpp",
+              "DocumentMoniker": "E:\\proga6sem\\simLive\\MainApp.cpp",
+              "RelativeDocumentMoniker": "MainApp.cpp",
+              "ToolTip": "E:\\proga6sem\\simLive\\MainApp.cpp",
+              "RelativeToolTip": "MainApp.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T15:06:22.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.cpp",
+              "DocumentMoniker": "E:\\proga6sem\\simLive\\MainWindow.cpp",
+              "RelativeDocumentMoniker": "MainWindow.cpp",
+              "ToolTip": "E:\\proga6sem\\simLive\\MainWindow.cpp",
+              "RelativeToolTip": "MainWindow.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T19:22:32.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "main.cpp",
               "DocumentMoniker": "E:\\proga6sem\\simLive\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "E:\\proga6sem\\simLive\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-07T15:13:11.658Z",
+              "WhenOpened": "2025-02-11T19:22:49.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Entity.h",
+              "DocumentMoniker": "E:\\proga6sem\\simLive\\Widgets\\Entity.h",
+              "RelativeDocumentMoniker": "Widgets\\Entity.h",
+              "ToolTip": "E:\\proga6sem\\simLive\\Widgets\\Entity.h",
+              "RelativeToolTip": "Widgets\\Entity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T15:43:01.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "geom.h",
+              "DocumentMoniker": "E:\\proga6sem\\simLive\\Widgets\\geom.h",
+              "RelativeDocumentMoniker": "Widgets\\geom.h",
+              "ToolTip": "E:\\proga6sem\\simLive\\Widgets\\geom.h",
+              "RelativeToolTip": "Widgets\\geom.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T15:30:49.433Z",
               "EditorCaption": ""
             }
           ]

@@ -60,6 +60,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <IncludePath>E:\proga6sem\simLive\simLive;$(IncludePath)</IncludePath>
+    <ExternalIncludePath>$(ExternalIncludePath)</ExternalIncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
   </PropertyGroup>
@@ -67,6 +69,10 @@
     <ClCompile>
       <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
+    <Link>
+      <AdditionalDependencies>widgets.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>E:\proga6sem\simLive\x64\Debug;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="Configuration">
     <ClCompile>
@@ -109,16 +115,9 @@
   <ItemGroup>
     <QtRcc Include="simLive.qrc" />
     <QtUic Include="simLive.ui" />
-    <ClCompile Include="Animal.cpp" />
-    <ClCompile Include="Food.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClInclude Include="Animal.h" />
-    <ClInclude Include="BaseTools.h" />
-    <ClInclude Include="Entity.h" />
     <QtMoc Include="MainApp.h" />
-    <ClInclude Include="Food.h" />
     <ClInclude Include="MainWindow.h" />
-    <ClInclude Include="Quadtree.h" />
     <ClInclude Include="stdafx.h" />
     <ClCompile Include="MainApp.cpp" />
     <ClCompile Include="MainWindow.cpp" />
